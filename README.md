@@ -110,14 +110,7 @@ Le projet sera organisé progressivement autour des éléments suivants :
 - Images
 - Documentation
 
-## 📅 Planning prévisionnel
 
-| Jour | Objectif |
-|------|----------|
-| Jour 1 | Configuration, Git, Snowflake et import des données |
-| Jour 2 | Architecture et transformations SQL |
-| Jour 3 | KPI et tableau de bord |
-| Jour 4 | Tests, documentation et finalisation |
 
 ## 🚀 État du projet
 
