@@ -1,0 +1,29 @@
+# SnowCredit Sazotech
+# Configuration Git
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Variables d'environnement et secrets
+.env
+.env.*
+!.env.example
+secrets/
+credentials.json
+
+# Configuration Snowflake locale
+connections.toml
+config.toml
+
+# Fichiers temporaires
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Fichiers VS Code locaux
+.vscode/
